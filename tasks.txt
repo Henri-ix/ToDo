@@ -1,0 +1,6 @@
+Sleep,catch some Z's,false,2,1
+,confused,false,0,2
+fix to do bug,fix that weird bug,false,3,3
+test code,test the to do code,false,2,4
+gym,go to the gym,false,2,5
+To-Do Commandline,Have To-Do functional with Commandline,false,2,6
