@@ -20,6 +20,7 @@ public class Main {
                     System.out.println(master.getTasks());
                     continue;
                 case 2:
+
                     System.out.println("What task would you like to view?");
                     Task task = master.viewTask(scan.nextInt());
                     System.out.println(task.getTaskName() + "," + task.getTaskDescription()+ "," +task.getCompleted()+ ","+task.getPriority());
